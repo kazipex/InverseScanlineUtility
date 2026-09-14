@@ -35,8 +35,7 @@ afterward.
 ## Run
 
 A small "InverseScanlineUtility Controls" panel appears near the top-left,
-starting with a single "Band 1" tab (there's no console window — logging to
-one is disabled entirely). The panel is a fixed width,
+starting with a single "Band 1" tab. The panel is a fixed width,
 sized for its DPI, and grows only in height to fit whatever's open (see
 "Panel sizing"). It also correctly rescales if you drag it to a different
 monitor with a different DPI/scaling setting. The corrective overlay itself
